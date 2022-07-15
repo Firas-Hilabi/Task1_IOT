@@ -1,7 +1,7 @@
 # Task1_IOT - Smart Methods
 
 This is a speech to text program built to support the Arabic language using javascript and Google api to make the web page required.
-ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
 
 Output web page:
